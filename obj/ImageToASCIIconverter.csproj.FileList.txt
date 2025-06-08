@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ImageToASCIIconverter.csproj.GenerateResource.Cache
+obj\Debug\ImageToASCIIconverter.Form1.resources
+obj\Debug\ImageToASCIIconverter.Properties.Resources.resources
+bin\Debug\ImageToASCIIconverter.exe
+bin\Debug\ImageToASCIIconverter.pdb
+obj\Debug\ImageToASCIIconverter.exe
+obj\Debug\ImageToASCIIconverter.pdb

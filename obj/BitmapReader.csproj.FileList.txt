@@ -1,0 +1,8 @@
+bin\Debug\BitmapReader.exe
+bin\Debug\BitmapReader.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BitmapReader.Form1.resources
+obj\Debug\BitmapReader.Properties.Resources.resources
+obj\Debug\BitmapReader.csproj.GenerateResource.Cache
+obj\Debug\BitmapReader.exe
+obj\Debug\BitmapReader.pdb

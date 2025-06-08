@@ -1,0 +1,15 @@
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\bin\Debug\net8.0-windows\ImageToASCIIconverter.exe
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\bin\Debug\net8.0-windows\ImageToASCIIconverter.deps.json
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\bin\Debug\net8.0-windows\ImageToASCIIconverter.runtimeconfig.json
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\bin\Debug\net8.0-windows\ImageToASCIIconverter.dll
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\bin\Debug\net8.0-windows\ImageToASCIIconverter.pdb
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\net8.0-windows\ImageToASCIIconverter.Form1.resources
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\net8.0-windows\ImageToASCIIconverter.Properties.Resources.resources
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\net8.0-windows\ImageToASCIIconverter.csproj.GenerateResource.cache
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\net8.0-windows\ImageToASCIIconverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\net8.0-windows\ImageToASCIIconverter.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\net8.0-windows\ImageToASCIIconverter.dll
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\net8.0-windows\refint\ImageToASCIIconverter.dll
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\net8.0-windows\ImageToASCIIconverter.pdb
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\net8.0-windows\ImageToASCIIconverter.genruntimeconfig.cache
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\net8.0-windows\ref\ImageToASCIIconverter.dll

@@ -1,0 +1,9 @@
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\bin\Debug\ImageToASCIIconverter.exe
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\bin\Debug\ImageToASCIIconverter.pdb
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.csproj.AssemblyReference.cache
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.Form1.resources
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.Properties.Resources.resources
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.csproj.GenerateResource.cache
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.exe
+C:\Users\José Antonio\source\repos\Exercicios\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.pdb
